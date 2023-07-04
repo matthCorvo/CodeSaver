@@ -1,0 +1,45 @@
+html,
+body {
+  height: 100%;
+}
+
+.intro {
+  height: 100%;
+}
+
+.left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3d231b;
+  height: 100%;
+  color: #fff;
+}
+
+.right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  height: 100%;
+  color: #3d231b;
+}
+
+@media (max-width: 991px) {
+  .left {
+    height: 50%;
+  }
+
+  .right {
+    height: 50%;
+  }
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  color: #fff;
+  height: 100%;
+}
