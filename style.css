@@ -1,15 +1,14 @@
 
 
-.intro {
-  /* padding: 100px 0px ; */
+.dropdown{
+  position: none !important;
 }
-
 .left {
   display: flex;
   /* justify-content: center;
   align-items: center; */
   flex-direction: column;
-  background-color: #3d231b;
+  background-color: #397e66;
   /* height: 100%; */
   color: #fff;
 }
@@ -47,8 +46,16 @@
   background-color: #513127c0;}
 
 .code_listing_content{
-  max-height: 200px;
+  max-height: 300px;
 overflow: auto;
+}
+
+#codeSnippets{
+padding-right: 30px;
+}
+
+.hide {
+  display: none;
 }
 
 .form_content{
@@ -61,7 +68,7 @@ background-color: #513127c0;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #000;
+  flex-direction: column;
+  background-color:  #787878c0;
   color: #fff;
-  /* height: 100%; */
 }
