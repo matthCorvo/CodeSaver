@@ -1,6 +1,6 @@
 # Code Saver Web App
 
-L'application web Code Saver est une plateforme qui permet aux utilisateurs de sauvegarder et gérer leurs extraits de code. Elle offre des fonctionnalités d'authentification des utilisateurs, de création de code, de liste de code et de suppression de code. L'application est développée en utilisant PHP et MySQL pour le backend.
+L'application web Code Saver est une plateforme qui permet aux développeurs de sauvegarder et gérer leurs extraits de code.  L'application est développée en utilisant PHP et MySQL.
 
 ## Fonctionnalités
 
