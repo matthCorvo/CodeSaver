@@ -272,3 +272,14 @@ Pour exécuter l'application web Code Saver en local, suivez ces étapes :
 4. Configurez les informations de connexion à la base de données dans le fichier de configuration.
 5. Démarrez votre serveur local.
 6. Accédez à l'application via votre navigateur en utilisant l'URL locale correspondante.
+
+## Test 
+
+Pour exécuter les tests unitaires pour le modèle CodeSaver, vous pouvez utiliser ** PHPUnit **. Assurez-vous d'avoir PHPUnit installé sur votre machine. avec ** composer install **
+
+Pour exécuter les tests, utilisez la commande suivante :
+
+```
+vendor/bin/phpunit tests/CodeTestModel.php
+```
+
