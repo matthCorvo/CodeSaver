@@ -275,7 +275,7 @@ Pour exécuter l'application web Code Saver en local, suivez ces étapes :
 
 ## Test 
 
-Pour exécuter les tests unitaires pour le modèle CodeSaver, vous pouvez utiliser ** PHPUnit **. Assurez-vous d'avoir PHPUnit installé sur votre machine. avec ** composer install **
+Pour exécuter les tests unitaires pour le modèle CodeSaver, vous pouvez utiliser **PHPUnit**. Assurez-vous d'avoir PHPUnit installé sur votre machine. avec **composer install**
 
 Pour exécuter les tests, utilisez la commande suivante :
 
