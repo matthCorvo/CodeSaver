@@ -8,5 +8,4 @@ function connect(){
     return $conn;
 }
 
-// Call the connect() function to establish a database connection
 $conn = connect();
